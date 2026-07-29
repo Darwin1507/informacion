@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Foto de perfil de ejemplo">
+  <rect width="600" height="700" rx="40" fill="#0f172a"/>
+  <circle cx="300" cy="255" r="140" fill="#1d4ed8"/>
+  <circle cx="300" cy="240" r="110" fill="#f1f5f9"/>
+  <path d="M160 640c20-130 110-210 140-210s120 80 140 210" fill="#3b82f6"/>
+  <circle cx="250" cy="235" r="14" fill="#0f172a"/>
+  <circle cx="350" cy="235" r="14" fill="#0f172a"/>
+  <path d="M250 310c26 30 74 30 100 0" stroke="#0f172a" stroke-width="12" fill="none" stroke-linecap="round"/>
+</svg>
